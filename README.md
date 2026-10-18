@@ -53,6 +53,6 @@
 
 ###
 
-<h4 data-importer="text" align="left">- **languages:** `C` · `C++` · `Rust` · `C#` · `Lua` · `Luau` · `Python` · `JavaScript` · `TypeScript` · `SQL`<br>- **ml & systems:** `Machine Learning` · `Neural Networks` · `CUDA` · `ONNX` · `Multithreading` · `Concurrency` · `Memory Management` · `Low-Level Programming`<br>- **backend:** `Node.js` · `FastAPI` · `Express` · `REST APIs` · `RPC` · `WebSockets` · `Distributed Systems` · `Microservices`<br>- **databases:** `PostgreSQL` · `MongoDB` · `Redis` · `SQLite` · `Database Indexing` · `Query Optimization`<br>- **tools & infrastructure:** `Linux` · `Arch Linux` · `Git` · `Docker` · `CMake` · `LLVM` · `GCC` · `CI/CD` · `Networking` · `TCP/IP`</h4>
+<p data-importer="text" align="left">- **languages:** `C` · `C++` · `Rust` · `C#` · `Lua` · `Luau` · `Python` · `JavaScript` · `TypeScript` · `SQL`<br>- **ml & systems:** `Machine Learning` · `Neural Networks` · `CUDA` · `ONNX` · `Multithreading` · `Concurrency` · `Memory Management` · `Low-Level Programming`<br>- **backend:** `Node.js` · `FastAPI` · `Express` · `REST APIs` · `RPC` · `WebSockets` · `Distributed Systems` · `Microservices`<br>- **databases:** `PostgreSQL` · `MongoDB` · `Redis` · `SQLite` · `Database Indexing` · `Query Optimization`<br>- **tools & infrastructure:** `Linux` · `Arch Linux` · `Git` · `Docker` · `CMake` · `LLVM` · `GCC` · `CI/CD` · `Networking` · `TCP/IP`</p>
 
 ###

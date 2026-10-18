@@ -45,11 +45,10 @@
 - **tools & infrastructure**: Linux • Arch Linux • Git • Docker • CMake • GCC • CI/CD • TCP/IP
 
 ---
+  ### contact
+
+- **discord**: @3yck
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=333sematary&show_icons=true&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e&icon_color=8b949e" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top
-    
-  ### contact
-
-- **discord**: @3yck

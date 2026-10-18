@@ -2,65 +2,54 @@
   <img src="https://i.pinimg.com/originals/ef/60/f4/ef60f4ef8a4235101f3c499c1ca93556.gif" width="100%" alt="banner">
 </p>
 
-<h3 align="center">14 y/o backend developer from Brazil</h3>
+<h3 align="center">14 y/o backend developer from Brazil 🇧🇷</h3>
 
 <p align="center">
-  building systems, automation and game logic.
+  interested in backend development, systems and software engineering.
   <br>
-  interested in what happens under the hood.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,js,ts,cpp,cs,c,rust&theme=dark&perline=8" />
+  learning, experimenting and figuring things out.
 </p>
 
 ---
 
-### 01 / languages
+### core skills
 
-Lua · Luau · Python · JavaScript · TypeScript · C · C++ · C# · Rust
-
-### 02 / ml & systems
-
-Low-Level Programming · Memory Management · Concurrency · Multithreading · Algorithms · Data Structures · Networking · Performance Optimization
-
-### 03 / backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,discordjs&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,python,js,ts,cpp,cs,c,rust&theme=dark&perline=8" alt="Languages">
 </p>
 
-REST APIs · WebSockets · RPC · Automation · Distributed Systems · Microservices
+- **languages**: Lua • Luau • Python • JavaScript • TypeScript • C • C++ • C# • Rust • SQL
 
-### 04 / databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,git,docker,cmake&theme=dark" alt="Systems and tools">
 </p>
 
-Database Design · Indexing · Query Optimization · Data Persistence · Caching
+- **ml & systems**: Low-Level Programming • Memory Management • Concurrency • Multithreading • Algorithms • Data Structures • Networking • Performance Optimization
 
-### 05 / tools & infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,git,docker,cmake,gcc,github,vscode&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend">
 </p>
 
-Linux · Arch Linux · Git · Docker · CMake · GCC · CI/CD · TCP/IP
+- **backend**: Node.js • Express • FastAPI • REST APIs • WebSockets • RPC • Distributed Systems • Microservices
 
-### 06 / projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&theme=dark" alt="Databases">
+</p>
 
-- **Roblox systems** — gameplay mechanics, game systems and server-side logic.
-- **Discord automation** — bots, commands and store workflows.
-- **Software experiments** — exploring backend architecture and system design.
+- **databases**: PostgreSQL • MongoDB • SQLite • Redis • Database Indexing • Query Optimization • Caching
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,git,github,docker,cmake,gcc,vscode&theme=dark&perline=8" alt="Tools and infrastructure">
+</p>
+
+- **tools & infrastructure**: Linux • Arch Linux • Git • Docker • CMake • GCC • CI/CD • TCP/IP
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lacerdww&show_icons=true&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e&icon_color=8b949e" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdww&layout=compact&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e" height="150" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top
+    
+  ### contact
 
-<p align="center">
-  building things that work.
-</p>
+- **discord**: @3yck

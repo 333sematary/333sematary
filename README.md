@@ -46,7 +46,8 @@
 
 ---
   ### contact
-
+  
+- **email**: [333sematary@gmail.com](mailto:333sematary@gmail.com)
 - **discord**: @3yck
 
 <p align="center">

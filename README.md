@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/ef/60/f4/ef60f4ef8a4235101f3c499c1ca93556.gif" width="100%" alt="banner">
 </p>
@@ -17,39 +16,39 @@
 
 ---
 
-### `01 / languages`
+### 01 / languages
 
-`Lua` · `Luau` · `Python` · `JavaScript` · `TypeScript` · `C` · `C++` · `C#` · `Rust`
+Lua · Luau · Python · JavaScript · TypeScript · C · C++ · C# · Rust
 
-### `02 / ml & systems`
+### 02 / ml & systems
 
-`Low-Level Programming` · `Memory Management` · `Concurrency` · `Multithreading` · `Algorithms` · `Data Structures` · `Networking` · `Performance Optimization`
+Low-Level Programming · Memory Management · Concurrency · Multithreading · Algorithms · Data Structures · Networking · Performance Optimization
 
-### `03 / backend`
+### 03 / backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,discordjs&theme=dark" />
 </p>
 
-`REST APIs` · `WebSockets` · `RPC` · `Automation` · `Distributed Systems` · `Microservices`
+REST APIs · WebSockets · RPC · Automation · Distributed Systems · Microservices
 
-### `04 / databases`
+### 04 / databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis&theme=dark" />
 </p>
 
-`Database Design` · `Indexing` · `Query Optimization` · `Data Persistence` · `Caching`
+Database Design · Indexing · Query Optimization · Data Persistence · Caching
 
-### `05 / tools & infrastructure`
+### 05 / tools & infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,arch,git,docker,cmake,gcc,github,vscode&theme=dark" />
 </p>
 
-`Linux` · `Arch Linux` · `Git` · `Docker` · `CMake` · `GCC` · `CI/CD` · `TCP/IP`
+Linux · Arch Linux · Git · Docker · CMake · GCC · CI/CD · TCP/IP
 
-### `06 / projects`
+### 06 / projects
 
 - **Roblox systems** — gameplay mechanics, game systems and server-side logic.
 - **Discord automation** — bots, commands and store workflows.
@@ -63,5 +62,5 @@
 </p>
 
 <p align="center">
-  <code>building things that work.</code>
+  building things that work.
 </p>

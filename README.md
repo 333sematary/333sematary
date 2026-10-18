@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/ef/60/f4/ef60f4ef8a4235101f3c499c1ca93556.gif" width="100%" alt="banner">
 </p>
 
-<h3 align="center">14 y/o backend developer from Brazil 🇧🇷</h3>
+<h3 align="center">14 years-old backend developer from Brazil 🇧🇷</h3>
 
 <p align="center">
   interested in backend development, systems and software engineering.
